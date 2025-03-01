@@ -1,0 +1,87 @@
+[
+    {
+      "description": "Lebanese traveling to Portugal (Apply for visa offline)",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello, I'm planning a trip from to Portugal. Can you help me with the visa requirements?"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! Could you please specify your passport issuer so I can assist you better with your journey?"
+        },
+        {
+          "role": "user",
+          "content": "My passport is from Lebanon."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for the information. For your journey to Portugal, Lebanese passport holders will need to apply for a visa in advance at a Portuguese consulate - there are no visa on arrival or visa exemptions."
+        }
+      ]
+    },
+    {
+      "description": "Singaporean traveling to Portugal (Visa Exempt)",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello, I'm planning a trip from to Portugal. Can you help me with the visa requirements?"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! Could you please specify your passport issuer so I can assist you better with your journey?"
+        },
+        {
+          "role": "user",
+          "content": "I’m from Singapore."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for the information. Singaporean passport holders are exempt from visa for travel to Portugal with a maximum stay of 30 days."
+        }
+      ]
+    },
+    {
+      "description": "Cypriot traveling to Portugal (Visa on Arrival)",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello, I'm planning a trip from to Portugal. Can you help me with the visa requirements?"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! Could you please specify your passport issuer so I can assist you better with your journey?"
+        },
+        {
+          "role": "user",
+          "content": "My passport is from Cyprus."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for the information. For your journey to Portugal, Cypriot passport holders can obtain a visa upon arrival which will give you 90-day maximum stay."
+        }
+      ]
+    },
+    {
+      "description": "Icelander traveling to Singapore (Apply for visa offline)",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hi, I need help determining the visa requirements to Singapore."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure! Please upload a photo of your passport so I can assist you with the visa information."
+        },
+        {
+          "role": "user",
+          "content": "My passport is from Iceland."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for providing the passport image. For your journey to Singapore, Iceland passport holders will need to apply for a visa in advance at a Singapore consulate - there are no visa on arrival or visa exemptions."
+        }
+      ]
+    }
+  ]
+  
