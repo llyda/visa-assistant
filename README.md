@@ -6,11 +6,11 @@ Visa Assistant is an AI-powered chatbot that helps users check visa requirements
 ## Features
 - **Visa Status Identification**:
   
-  Checks visa requirements for travel between countries, including:
+  Checks visa requirements for travel between countries:
 
-  - Visa-free travel
+  - Visa-free
   - Visa-on-arrival
-  - Visa-required scenarios
+  - Visa-required
 
 - **Interactive Chat Interface**:\
   User-friendly interface built with Jupyter Notebook and `ipywidgets`.
