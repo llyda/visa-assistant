@@ -118,20 +118,7 @@ User: Portugal
 AI: Good news! Cypriot nationals can obtain a visa on arrival in Portugal (90 days).
 ```
 
-### Test Cases
-
-Run predefined test cases in the notebook to validate functionality:
-
-```python
-test_conversation([
-    "Hello! I need visa assistance",
-    "My passport is from Lebanon",
-    "Portugal"
-])
-```
-
 ---
-
 ## Customizing Visa Data
 
 Update `src/airbot/data/visa_information.json` to add/modify visa rules:
@@ -148,7 +135,8 @@ Update `src/airbot/data/visa_information.json` to add/modify visa rules:
   }
 }
 
-``` 
+```
+---
 ## Project Status
 
 This project is a work in progress and will continue to be improved. Core functionality is implemented, but additional features and improvements are planned.
